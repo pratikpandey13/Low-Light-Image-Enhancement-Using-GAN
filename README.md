@@ -4,7 +4,8 @@ Then main obective of this project is to solve the challenge of enhancing low-li
 
 Dataset : 
 
-In this project the openly available LOL dataset, which comprises 500 low-light and normal-light image pairs split into 485 training pairs and 15 testing pairs, will be used. 
+The work in this research is conducted using the publicly accessible LOL dataset, which consists of 500 image pairs with low and normal light divided into 485 training pairs and 15 testing pairs.Every image in the dataset has a resolution of 400 x 600.
+
 Dataset Link: https://paperswithcode.com/dataset/lol
 
 
