@@ -7,10 +7,20 @@ Dataset :
 The work in this research is conducted using the publicly accessible LOL dataset, which consists of 500 image pairs with low and normal light divided into 485 training pairs and 15 testing pairs.Every image in the dataset has a resolution of 400 x 600.
 
 Dataset Link: https://paperswithcode.com/dataset/lol
+![Dataset:Sample Input Image vs GroundTruth](https://github.com/pratikpandey13/Low-Light-Image-Enhancement-Using-GAN/blob/main/Images/Sample%20Image%20vs%20GroundTruth%20Dataset.jpeg)
 
 ## Model Architecture
 
+
+
 ![GAN Architecture](https://github.com/pratikpandey13/Low-Light-Image-Enhancement-Using-GAN/blob/main/Images/GAN_Architecture.jpeg)
+
+![GAN Architecture](https://github.com/pratikpandey13/Low-Light-Image-Enhancement-Using-GAN/blob/main/Images/GAN_Architecture.jpeg)
+
+![GAN Architecture](https://github.com/pratikpandey13/Low-Light-Image-Enhancement-Using-GAN/blob/main/Images/GAN_Architecture.jpeg)
+
+![GAN Architecture](https://github.com/pratikpandey13/Low-Light-Image-Enhancement-Using-GAN/blob/main/Images/GAN_Architecture.jpeg)
+
 
 
 
