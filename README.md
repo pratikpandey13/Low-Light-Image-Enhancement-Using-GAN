@@ -10,6 +10,6 @@ Dataset Link: https://paperswithcode.com/dataset/lol
 
 ## Model Architecture
 
-
+![alt text]([http://url/to/img.png](https://github.com/pratikpandey13/Low-Light-Image-Enhancement-Using-GAN/blob/main/Images/GAN_Architecture.jpeg))
 
 
