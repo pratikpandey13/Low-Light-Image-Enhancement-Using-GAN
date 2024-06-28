@@ -8,5 +8,8 @@ The work in this research is conducted using the publicly accessible LOL dataset
 
 Dataset Link: https://paperswithcode.com/dataset/lol
 
+## Model Architecture
+
+
 
 
