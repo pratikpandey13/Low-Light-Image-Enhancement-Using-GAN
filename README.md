@@ -15,7 +15,13 @@ Below is a sample image from the dataset and its corresponding image that is cap
 
 ![GAN Architecture](https://github.com/pratikpandey13/Low-Light-Image-Enhancement-Using-GAN/blob/main/Images/GAN_Architecture.jpeg)
 
+-- Generator Architecture
+The Pix2PixHD generator model is designed for high-resolution image synthesis and semantic 
+manipulation using conditional Generative Adversarial Networks (cGANs). It significantly 
+improves upon the original Pix2Pix framework by introducing a more sophisticated 
+architecture capable of handling high-resolution images. 
 
+Below is the genrator architecture diagram:
 ![Generator Architecutre](https://github.com/pratikpandey13/Low-Light-Image-Enhancement-Using-GAN/blob/main/Images/Generator%20Architecture.jpeg)
 
 
